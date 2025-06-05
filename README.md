@@ -1,10 +1,18 @@
-# 👋 Hi, I'm <span style="color:#ff79c6">Chandhu Swargam</span>!
+<!-- Profile README for Chandhu-Swargam -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&color=FF79C6&center=true&vCenter=true&lines=Hi%2C+I'm+Chandhu+Swargam!;CAD+Automation+Enthusiast;C%23+%7C+.NET+%7C+Java+%7C+AutoCAD" alt="Typing SVG" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FF79C6&center=true&vCenter=true&width=440&lines=CAD+Automation+Enthusiast;C%23+%7C+AutoCAD+Scripting+%7C+.NET+Dev;Automating+Designs+for+a+Smarter+Tomorrow)
+<p align="center">
+  <img src="https://img.shields.io/badge/CAD%20Automation-blue?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23%20%7C%20.NET-8A2BE2?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fdes%20Technologies-5cb85c?style=for-the-badge"/>
+</p>
 
 ---
 
-## 💡 About Me
+## <img src="https://cdn.jsdelivr.net/gh/Chandhu-Swargam/icons/lightbulb-ff79c6.svg" width="24"/> About Me
 
 - 🎯 **Current Role:** Cad Automation Trainee @ Fdes Technologies Private Limited
 - ⚡ **Passion:** Creating efficient logic & automating CAD workflows for real productivity
@@ -12,69 +20,51 @@
 
 ---
 
-## 🛠️ Top Skills
+## <img src="https://cdn.jsdelivr.net/gh/Chandhu-Swargam/icons/tools-ff79c6.svg" width="24"/> Top Skills
 
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.simpleicons.org/autodesk/0696D7" width="32" alt="AutoCAD" />
-    </td>
-    <td>
-      <b>AutoCAD Automation</b><br/>
-      <span style="color: #b3b3b3;">Scripting & automating tasks to reduce manual work</span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.simpleicons.org/csharp/239120" width="32" alt="C#" />
-    </td>
-    <td>
-      <b>C# .NET Framework</b><br/>
-      <span style="color: #b3b3b3;">Building Windows Forms apps for CAD integration</span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.simpleicons.org/java/007396" width="32" alt="Java" />
-    </td>
-    <td>
-      <b>Java (Basics)</b><br/>
-      <span style="color: #b3b3b3;">Foundation in OOP & programming logic</span>
-    </td>
-  </tr>
-</table>
+| 🚀 | **Skill**                | **Description**                                        |
+|----|-------------------------|--------------------------------------------------------|
+| 🧭 | **AutoCAD Automation**   | Scripting & automating tasks to reduce manual work     |
+| 💻 | **C# .NET Framework**    | Building Windows Forms apps for CAD integration        |
+| ☕ | **Java (Basics)**        | Foundation in OOP & programming logic                  |
 
 ---
 
-## ⭐ Notable Project
+## <img src="https://cdn.jsdelivr.net/gh/Chandhu-Swargam/icons/star-ff79c6.svg" width="24"/> Notable Project
 
-**Automating Block Manipulation in AutoCAD**
+### **Automating Block Manipulation in AutoCAD**
 
 🛠️ Developed a tool that:
-- Activates external DWG files
-- Fetches all blocks in Model Space
-- Programmatically copies, manipulates dynamic properties, and edits block attributes via command-line
+- 🔗 Activates external DWG files  
+- 🧩 Fetches all blocks in Model Space  
+- ✨ Programmatically copies, manipulates dynamic properties, and edits block attributes via command-line
 
 <sub><i>This project demonstrates my drive to automate and optimize real-world CAD tasks with code!</i></sub>
 
 ---
 
-## 🧠 What Drives Me
+## <img src="https://cdn.jsdelivr.net/gh/Chandhu-Swargam/icons/brain-ff79c6.svg" width="24"/> What Drives Me
 
-I love crafting logical solutions that make complex tasks easier.  
-Whether automating repetitive CAD operations or designing smarter workflows,  
-I'm always eager to tackle challenges and expand my expertise.
+> I love crafting logical solutions that make complex tasks easier. Whether automating repetitive CAD operations or designing smarter workflows, I'm always eager to tackle challenges and expand my expertise.
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandhu_Swargam-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/chandhu-swargam/)
+<a href="https://www.linkedin.com/in/swargam-chandhu-b39060309">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 
-<details>
+<details align="center">
   <summary>🎉 <b>Fun Fact</b></summary>
-  <br/>
+  <br>
   <b>"A few lines of logic can save hours of manual work!"</b> 💡
 </details>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
+</p>
