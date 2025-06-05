@@ -1,6 +1,6 @@
 <!-- Profile README for Chandhu-Swargam -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&color=FF79C6&center=true&vCenter=true&lines=Hi%2C+I'm+Chandhu+Swargam!;CAD+Automation+Enthusiast;C%23+%7C+.NET+%7C+Java+%7C+AutoCAD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&color=FF79C6&center=true&vCenter=true&lines=👋+Hi%2C+I'm+Chandhu+Swargam!;CAD+Automation+Enthusiastic;C%23+%7C+.NET+%7C+Java+%7C+AutoCAD" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Chandhu-Swargam/icons/lightbulb-ff79c6.svg" width="24"/> About Me
+## 💡 About Me
 
 - 🎯 **Current Role:** Cad Automation Trainee @ Fdes Technologies Private Limited
 - ⚡ **Passion:** Creating efficient logic & automating CAD workflows for real productivity
@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Chandhu-Swargam/icons/tools-ff79c6.svg" width="24"/> Top Skills
+## 🛠️ Top Skills
 
 | 🚀 | **Skill**                | **Description**                                        |
 |----|-------------------------|--------------------------------------------------------|
@@ -30,7 +30,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Chandhu-Swargam/icons/star-ff79c6.svg" width="24"/> Notable Project
+## 🌟 Notable Project
 
 ### **Automating Block Manipulation in AutoCAD**
 
@@ -43,7 +43,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Chandhu-Swargam/icons/brain-ff79c6.svg" width="24"/> What Drives Me
+## 🧠 What Drives Me
 
 > I love crafting logical solutions that make complex tasks easier. Whether automating repetitive CAD operations or designing smarter workflows, I'm always eager to tackle challenges and expand my expertise.
 
