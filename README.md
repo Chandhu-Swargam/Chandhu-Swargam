@@ -1,4 +1,3 @@
-<!-- Profile README for Chandhu-Swargam -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&color=FF79C6&center=true&vCenter=true&lines=👋+Hi%2C+I'm+Chandhu+Swargam!;CAD+Automation+Enthusiastic;C%23+%7C+.NET+%7C+Java+%7C+AutoCAD" alt="Typing SVG" />
 </p>
