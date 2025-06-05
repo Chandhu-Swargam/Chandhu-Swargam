@@ -1,4 +1,4 @@
-````markdown name=README.md
+markdown name=README.md
 <!-- Profile README for Chandhu Swargam -->
 
 <h1 align="center">👋 Hi, I’m <span style="color:#ff79c6;">Chandhu Swargam</span>!</h1>
@@ -114,4 +114,4 @@
 <br>
 I believe: <b>“A few lines of logic can save hours of manual work!”</b> 💡
 </details>
-````
+
