@@ -1,117 +1,88 @@
-markdown name=README.md
-<!-- Profile README for Chandhu Swargam -->
+function MainComponent() {
+  return (
+    <div className="min-h-screen bg-[#0d1117] text-white p-8 font-roboto">
+      <div className="max-w-3xl mx-auto">
+        <div className="bg-[#161b22] rounded-lg p-6 mb-6">
+          <div className="flex items-center mb-4">
+            <i className="fas fa-code-branch text-[#58a6ff] text-2xl mr-3"></i>
+            <h1 className="text-2xl font-bold">Hi there 👋</h1>
+          </div>
+          <p className="text-gray-300 mb-4">
+            I'm a Cad Automation Trainee at Fdes Technologies Private Limited
+          </p>
+        </div>
 
-<h1 align="center">👋 Hi, I’m <span style="color:#ff79c6;">Chandhu Swargam</span>!</h1>
+        <div className="grid gap-6">
+          <div className="bg-[#161b22] rounded-lg p-6">
+            <h2 className="flex items-center text-xl mb-3">
+              <i className="fas fa-laptop-code text-[#58a6ff] mr-2"></i>
+              About Me
+            </h2>
+            <ul className="space-y-2 text-gray-300">
+              <li className="flex items-center">
+                <i className="fas fa-briefcase text-gray-500 w-6"></i>
+                Currently working on CAD automation and workflow optimization
+              </li>
+              <li className="flex items-center">
+                <i className="fas fa-graduation-cap text-gray-500 w-6"></i>
+                Learning advanced CAD automation techniques
+              </li>
+              <li className="flex items-center">
+                <i className="fas fa-heart text-gray-500 w-6"></i>
+                Passionate about improving design processes
+              </li>
+            </ul>
+          </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FF79C6&center=true&vCenter=true&width=440&lines=CAD+Automation+Enthusiast;C%23+%7C+AutoCAD+Scripting+%7C+.NET+Dev;Automating+Designs+for+a+Smarter+Tomorrow" alt="Typing SVG">
-</p>
+          <div className="bg-[#161b22] rounded-lg p-6">
+            <h2 className="flex items-center text-xl mb-3">
+              <i className="fas fa-chart-line text-[#58a6ff] mr-2"></i>
+              Focus Areas
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-gray-300">
+              <div className="flex items-center">
+                <i className="fas fa-cogs text-green-400 mr-2"></i>
+                Process Automation
+              </div>
+              <div className="flex items-center">
+                <i className="fas fa-drafting-compass text-purple-400 mr-2"></i>
+                CAD Development
+              </div>
+              <div className="flex items-center">
+                <i className="fas fa-code text-yellow-400 mr-2"></i>
+                Workflow Scripting
+              </div>
+              <div className="flex items-center">
+                <i className="fas fa-project-diagram text-blue-400 mr-2"></i>
+                System Integration
+              </div>
+            </div>
+          </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CAD%20Automation-AutoCAD-blue?style=for-the-badge&logo=autodesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-.NET-8A2BE2?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Basics-orange?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fdes%20Technologies-Employee-5cb85c?style=for-the-badge"/>
-</p>
+          <div className="bg-[#161b22] rounded-lg p-6">
+            <h2 className="flex items-center text-xl mb-3">
+              <i className="fas fa-star text-[#58a6ff] mr-2"></i>
+              Goals
+            </h2>
+            <ul className="space-y-2 text-gray-300">
+              <li className="flex items-center">
+                <i className="fas fa-check text-green-400 mr-2"></i>
+                Enhance team productivity through automation
+              </li>
+              <li className="flex items-center">
+                <i className="fas fa-check text-green-400 mr-2"></i>
+                Develop innovative CAD solutions
+              </li>
+              <li className="flex items-center">
+                <i className="fas fa-check text-green-400 mr-2"></i>
+                Create efficient design workflows
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
 
----
-
-## 💡 About Me
-
-- 🎯 **Current Role:** <b>Cad Automation Trainee @ Fdes Technologies Private Limited</b>
-- 🌈 **Mission:** Empowering teams by automating design processes & workflows for maximum impact
-- ⚡ **Passion:** Creating efficient logic & automating CAD workflows for real productivity
-- 🧩 **Interests:** Exploring new ways to enhance productivity with CAD tools & code
-
----
-
-## ⏳ My Hourly Actions
-
-| ⏰ Hour | 🚀 What I Do |
-|--------|--------------------------------------------------------------------------|
-| 09:00  | Review design requirements & plan automation tasks                       |
-| 10:00  | Script AutoCAD routines in C#/.NET                                       |
-| 11:00  | Test automation on sample drawings                                       |
-| 12:00  | Collaborate with team, share progress & troubleshoot                     |
-| 13:00  | Lunch 🍱 & quick tech reading                                             |
-| 14:00  | Refactor code for performance & maintainability                          |
-| 15:00  | Integrate automation into CAD projects                                   |
-| 16:00  | Document workflows, update repositories                                  |
-| 17:00  | Wrap up, plan next day's goals!                                          |
-
-<sub>*(Sample of my typical productive day as a CAD Automation Trainee!)*</sub>
-
----
-
-## 🛠️ Top Skills
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/autodesk/0696D7" width="32"/></td>
-    <td><b>AutoCAD Automation</b><br/><sub>Scripting & automating tasks to reduce manual work</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/csharp/239120" width="32"/></td>
-    <td><b>C# .NET Framework</b><br/><sub>Building Windows Forms apps for CAD integration</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/java/007396" width="32"/></td>
-    <td><b>Java (Basics)</b><br/><sub>Foundation in OOP & programming logic</sub></td>
-  </tr>
-</table>
-
----
-
-## 🌟 Notable Project
-
-> ### **Automating Block Manipulation in AutoCAD**
->
-> 🛠️ Developed a tool that:
-> - Activates external DWG files
-> - Fetches all blocks in Model Space
-> - Programmatically copies, manipulates dynamic properties, and edits block attributes via command-line
->
-> <sub><i>This project demonstrates my drive to automate and optimize real-world CAD tasks with code!</i></sub>
-
----
-
-## 🧠 What Drives Me
-
-> I love crafting logical solutions that make complex tasks easier. Whether automating repetitive CAD operations or designing smarter workflows, I’m always eager to tackle challenges and expand my expertise.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandhu-Swargam&show_icons=true&theme=radical" alt="Chandhu-Swargam's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandhu-Swargam&theme=radical" alt="Streak Stats"/>
-</p>
-
----
-
-## ⚡ Hourly Actions in Practice
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohc1gk2f1w1p3b5A0/giphy.gif" width="400"/><br>
-  <sub>Turning ideas into streamlined automation, one hour at a time!</sub>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chandhu-swargam/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <!-- Add more social links as needed -->
-</p>
-
----
-
-<details>
-<summary>🎉 <b>Fun Fact</b></summary>
-<br>
-I believe: <b>“A few lines of logic can save hours of manual work!”</b> 💡
-</details>
 
